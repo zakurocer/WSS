@@ -1,0 +1,55 @@
+{
+    "TITLE": "wss - la première entreprise du sud spécialisée dans la conception et la programmation",
+    "NAV": {
+        "main": "Accueil",
+        "services": "Services",
+        "projects": "Projets",
+        "partners": "Nos Partenaires",
+        "Contact": "Contact"
+    },
+
+    "HEADER": {
+        "title": "AGENCE DE COMMUNICATION & CONSEIL EN MARKETING DIGITAL",
+        "subTitle": "WEB SERVICES SH. N°1 au Niveau du sud à laayoune, une des Meilleures société de web marketing qui le Maroc puisse offrire"
+    },
+
+    "CARDS": {
+        "title": "Nos Services",
+        "subTitle": "Nous vous offrons le moyen éprouvé d’augmenter le nombre de clients et de réussir en ligne",
+        "subTitle2": "Il est temps de surpasser vos concurrents et de vous démarquer sur le marché.",
+        "card": {
+            "card1": {
+                "title": "SITES INTERNET",
+                "text": "Nous réalisons des sites professionnels avec un taux de conversion élevé, faciles d'utilisation, éditables par le client, adaptés aux smartphones et tablettes et bien référencés (Site Vitrine, Site Catalogue, Site E-Commerce, Site Sur Mesure..).",
+                "btn": "voir plus"
+            },
+            "card2": {
+                "title": "APPLICATIONS",
+                "text": "Vous souhaitez mieux organiser votre temps dans un projet ou tout type de travaux ? Nous pouvons changer cela, Nous développons des Applications optimisées pour satisfaire toutes les exigences de votre Business.",
+                "btn": "voir plus"
+            },
+            "card3": {
+                "title": "GRAPHIC DESIGN",
+                "text": "Nos infographistes utilisent les meilleurs outils de développement pour vous garantir la meilleur qualité visuelle possible sur vos projets. Charte graphique, identité visuelle, flyer, catalogue, packaging..",
+                "btn": "voir plus"
+            },
+            "card4": {
+                "title": "RÉFÉRENCEMENT",
+                "text": "Votre site internet peu de visites ? C'est sûrement qu'il est mal référencé. Nous pouvons vous aider à améliorer votre site pour que les moteurs de recherche apparaissent en premier dans les résultats de recherche.",
+                "btn": "voir plus"
+            },
+            "card5": {
+                "title": "GESTION DES RÉSEAUX SOCIAUX",
+                "text": "Notre agence prend en charge tous les aspects de votre community management: stratégie social média, création des comptes, animation, modération, création de contenus et reporting. Vous recherchez un Community Manager ? Notre équipe élabore, anime et modère pour vous les réseaux sociaux de votre marque…",
+                "btn": "voir plus"
+            },
+            "card6": {
+                "title": "MARKETING DIGITAL",
+                "text": "Nos experts en marketing digital vous ouvrent de nouveaux horizons pour atteindre un public plus étendu. Ils vous proposent des stratégies de marketing digital optimisées et orientées client, afin que vous puissiez gagner en visibilité et image de marque.",
+                "btn": "voir plus"
+            }
+        }
+    }
+
+    
+}

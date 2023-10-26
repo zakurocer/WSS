@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Teko', sans-serif;
+    ::-webkit-scrollbar{
+        width: 0.5rem;
+    }
+
+    ::-webkit-scrollbar-track {
+        background: #6366F1 !important; 
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: linear-gradient(-45deg, #6366F1, #B8E8DB); 
+      border-radius: 2rem;
+    }
+}
+
+@layer components {
+    .buttons{
+    @apply w-full hover:bg-gradient-to-r from-violet-500 to-fuchsia-500 hover:text-white active:scale-95 transition-all;
+    }
+    .linksTheme{
+        @apply !bg-black hover:bg-gradient-to-br from-violet-500 to-fuchsia-700 bg-clip-text text-transparent transition-all;
+    }
+    .linksThemeHidden{
+        @apply flex justify-start items-center hover:text-white hover:bg-gradient-to-r from-violet-500 to-fuchsia-500 transition-all w-11/12 rounded-md px-5 py-3 hover:scale-105 cursor-pointer ;
+    }
+    .barItemsSticks{
+        @apply border-solid border-black border-2 transition-all w-6 absolute;
+    }
+    .langChanger{
+        @apply select-none rounded-md hover:text-white flex justify-center items-center hover:bg-gradient-to-br from-violet-500  to-fuchsia-700 px-2 transition-all cursor-pointer
+    }
+    .LangChangerDiv{
+        @apply absolute top-8 bg-slate-200 w-full rounded-lg justify-center items-center flex-col overflow-hidden
+    }
+    .LangChangerDiv2{
+        @apply absolute top-0 right-14 bg-slate-200 w-full rounded-lg justify-center items-center flex overflow-hidden
+    }
+}

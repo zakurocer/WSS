@@ -1,0 +1,17 @@
+.headerBackground{
+    background-repeat: no-repeat !important;
+    background-size: 100rem !important;
+}
+
+.headerBackground > div{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    height: 40rem;
+    margin: 0 10%;
+}
+
+.headerBackground > div > p{
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}

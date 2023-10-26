@@ -1,0 +1,19 @@
+.services{
+    height: 80rem;
+    z-index: 10;
+}
+
+.services > div{
+    background-image: url('../../../img/layered-waves-haikei\ \(2\).svg');
+    background-position: 0% -3rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    z-index: 1;
+
+}
+
+.svgCards{
+    width: 10rem ;
+    height: fit-content;
+}

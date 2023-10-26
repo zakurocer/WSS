@@ -1,0 +1,65 @@
+{
+    "TITLE": "wss - la première entreprise du sud spécialisée dans la conception et la programmation",
+    "NAV": {
+        "main": "Accueil",
+        "services": "Services",
+        "projects": "Projets",
+        "partners": "Nos Partenaires",
+        "Contact": "Contact"
+    },
+
+    "HEADER": {
+        "title": "AGENCE DE COMMUNICATION & CONSEIL EN MARKETING DIGITAL",
+        "subTitle": "WEB SERVICES SH. N°1 au Niveau du sud à laayoune, une des Meilleures société de web marketing qui le Maroc puisse offrire"
+    },
+
+    "CARDS": {
+        "title": "Nos Services",
+        "subTitle": "Nous vous offrons le moyen éprouvé d’augmenter le nombre de clients et de réussir en ligne",
+        "subTitle2": "Il est temps de surpasser vos concurrents et de vous démarquer sur le marché.",
+        "card": {
+            "card1": {
+                "title": "SITES INTERNET",
+                "text": "Nous réalisons des sites professionnels avec un taux de conversion élevé, faciles d'utilisation, éditables par le client, adaptés aux smartphones et tablettes et bien référencés (Site Vitrine, Site Catalogue, Site E-Commerce, Site Sur Mesure..).",
+                "btn": "voir plus"
+            },
+            "card2": {
+                "title": "APPLICATIONS",
+                "text": "Vous souhaitez mieux organiser votre temps dans un projet ou tout type de travaux ? Nous pouvons changer cela, Nous développons des Applications optimisées pour satisfaire toutes les exigences de votre Business.",
+                "btn": "voir plus"
+            },
+            "card3": {
+                "title": "GRAPHIC DESIGN",
+                "text": "Nos infographistes utilisent les meilleurs outils de développement pour vous garantir la meilleur qualité visuelle possible sur vos projets. Charte graphique, identité visuelle, flyer, catalogue, packaging..",
+                "btn": "voir plus"
+            },
+            "card4": {
+                "title": "RÉFÉRENCEMENT",
+                "text": "Votre site internet peu de visites ? C'est sûrement qu'il est mal référencé. Nous pouvons vous aider à améliorer votre site pour que les moteurs de recherche apparaissent en premier dans les résultats de recherche.",
+                "btn": "voir plus"
+            },
+            "card5": {
+                "title": "GESTION DES RÉSEAUX SOCIAUX",
+                "text": "Notre agence prend en charge tous les aspects de votre community management: stratégie social média, création des comptes, animation, modération, création de contenus et reporting. Vous recherchez un Community Manager ? Notre équipe élabore, anime et modère pour vous les réseaux sociaux de votre marque…",
+                "btn": "voir plus"
+            },
+            "card6": {
+                "title": "MARKETING DIGITAL",
+                "text": "Nos experts en marketing digital vous ouvrent de nouveaux horizons pour atteindre un public plus étendu. Ils vous proposent des stratégies de marketing digital optimisées et orientées client, afin que vous puissiez gagner en visibilité et image de marque.",
+                "btn": "voir plus"
+            }
+        }
+    },
+    "STRIP": {
+        "topic": "Bienvenue dans WEB SERVICES SH. Une des meilleures Société de Web marketing que le Maroc puisse offrir. Web Services SH est l’une des premières agences de marketing digital au Maroc, qui compte une pléiade de campagnes marketing réussies, pour les grandes entreprises comme pour les startups. Nous espérons que vous apprécierez la navigation sur notre site.",
+        "btn": "Digitalisez votre Projet"
+    },
+    "OFFERS": {
+        "title": "Nous vous offrons le moyen éprouvé d'augmenter le nombre de clients et de réussir en ligne",
+        "p1": "Au cours des dernières années, nous avons aidé de nombreuses personnes et entreprises à augmenter leurs ventes, à développer leur stratégie marketing, à se fixer des objectifs majeurs à la hauteur de leurs attentes et à les accompagner jusqu’à ce que les objectifs soient atteints.",
+        "p2": "Nous avons de nombreux entrepreneurs, entreprises et même artisans qui réalisent quotidiennement des milliers de ventes/rendez-vous 💰 grâce à nos plans et bases de données en millions",
+        "p3": "Peu importe que vous souhaitiez commercialiser des services, des produits ou même vous-même, nous pouvons déterminer une stratégie de marketing appropriée pour vous permettre d’atteindre le succès que nous désirons.",
+        "btn": "Es-tu prêt à commencer?"
+    }
+    
+}
